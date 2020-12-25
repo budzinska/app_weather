@@ -1,0 +1,63 @@
+html {
+  position: relative;
+  min-width: 360px;
+  min-height: 640px;
+  height: 100%;
+}
+body {
+  font-size: 16px;
+  border: solid thin #da6385;
+  border-radius: 5px;
+  margin: 30px 70px 30px 70px;
+}
+form {
+  font-size: 12px;
+  display: block;
+  margin: 40px auto;
+  text-align: center;
+}
+input {
+  text-align: center;
+}
+h1 {
+  font-size: 45px;
+  color: #f9a826;
+  text-align: center;
+  text-shadow: 2px 2px 3px gray;
+}
+h2 {
+  font-size: 25px;
+  color: #f9a826;
+  text-align: center;
+}
+img {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.fa-map-marker-alt {
+  color: #585b89;
+  width: 30px;
+}
+.row {
+  text-align: center;
+}
+.borderViolet {
+  border: solid thin #585b89;
+  border-radius: 4px;
+}
+.yellowBackground {
+  background-color: #f9a826;
+}
+.transparent {
+  background-color: transparent;
+  border: none;
+}
+.smallText {
+  font-size: 12px;
+}
+.dailyTemp {
+  font-size: 30px;
+  padding: 2px 0;
+}
